@@ -3,16 +3,15 @@ import './TodoSearch.css';
 
 function TodoSearch({
   searchValue,
-  setSearcValue,
+  setSearchValue,
 }) {
   return (
-    
     <input
       placeholder="Cortar cebolla"
       className="TodoSearch"
       value={searchValue}
       onChange={(event) => {
-        setSearcValue(event.target.value);
+        setSearchValue(event.target.value);
       }}
     />
   );
