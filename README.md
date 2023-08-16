@@ -2,19 +2,27 @@
 
 ¡Hola!
 
-En este repositorio encontraras codigo de REACT donde se muestra una lista de tareas.
+En este repositorio encontrarás código de REACT donde se muestra una lista de tareas.
 Para empezar solo debes clonar este repositorio https://github.com/yeprepue/curso-react-intro.git
 (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
-La rama principal contiene el código con el que eempezamos es main. 
+La rama principal contiene el código con el que empezamos es main. 
 
 Finalmente el deploy de la aplicación. https://yeprepue.github.io/curso-react-intro/
 
 
 
-## Getting Started with Create React App
+Hello!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this repository you will find REACT code where a list of tasks is displayed.
+To start you just have to clone this repository https://github.com/yeprepue/curso-react-intro.git
+(`git clone`), install its dependencies (`npm i`) and run the application (`npm start`).
+
+The main branch contains the code we started with is main.
+
+Finally the deploy of the application. https://yeprepue.github.io/curso-react-intro/
+
+
 
 ## Available Scripts
 
