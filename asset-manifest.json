@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/css/main.475e45d0.css",
-    "main.js": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/js/main.9fbcd795.js",
-    "index.html": "/Users/User/Desktop/react-platzi/curso-react-intro/build/index.html",
-    "static/media/Delete.svg": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/media/Delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
-    "static/media/Check.svg": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/media/Check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
-    "main.475e45d0.css.map": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/css/main.475e45d0.css.map",
-    "main.9fbcd795.js.map": "/Users/User/Desktop/react-platzi/curso-react-intro/build/static/js/main.9fbcd795.js.map"
+    "main.css": "/curso-react-intro/static/css/main.475e45d0.css",
+    "main.js": "/curso-react-intro/static/js/main.9a2ce6ac.js",
+    "index.html": "/curso-react-intro/index.html",
+    "static/media/Delete.svg": "/curso-react-intro/static/media/Delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
+    "static/media/Check.svg": "/curso-react-intro/static/media/Check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
+    "main.475e45d0.css.map": "/curso-react-intro/static/css/main.475e45d0.css.map",
+    "main.9a2ce6ac.js.map": "/curso-react-intro/static/js/main.9a2ce6ac.js.map"
   },
   "entrypoints": [
     "static/css/main.475e45d0.css",
-    "static/js/main.9fbcd795.js"
+    "static/js/main.9a2ce6ac.js"
   ]
 }
