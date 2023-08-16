@@ -22,6 +22,14 @@ The main branch contains the code we started with is main.
 
 Finally the deploy of the application. https://yeprepue.github.io/curso-react-intro/
 
+![image](https://github.com/yeprepue/curso-react-intro/assets/43614257/b7f0c7a1-b5fe-40a1-8ded-44f61809248a)
+
+![image](https://github.com/yeprepue/curso-react-intro/assets/43614257/483d401b-1f6c-4d5e-9a43-67c22df8bab6)
+
+![image](https://github.com/yeprepue/curso-react-intro/assets/43614257/31810199-14f7-40c0-942b-e6c229e72326)
+
+
+
 
 
 ## Available Scripts
